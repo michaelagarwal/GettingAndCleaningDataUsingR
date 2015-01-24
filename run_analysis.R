@@ -22,3 +22,7 @@ X_all_subset_1 <- X_all[ , which(names(X_all) %like% "-mean()")]
 X_all_subset_2 <- X_all[ , which(names(X_all) %like% "-std()")]
 X_all_subset <- cbind(X_all_subset_1, X_all_subset_2)
 ###################################################
+#   Step 3: Uses descriptive activity names to name the activities in the data set
+    Y_train <- read.table("../Y_train.txt")
+    Y_test <- read.table("../Y_test.txt")
+View(Y_test)
