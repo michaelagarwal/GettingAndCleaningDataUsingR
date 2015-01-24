@@ -1,5 +1,5 @@
-Project for Getting and Cleaning Data:
-Author: Michael Agarwal (https://github.com/michaelagarwal/ProjectForGettingAndCleaningData)
+### Project for Getting and Cleaning Data:
+# Author: Michael Agarwal (https://github.com/michaelagarwal/ProjectForGettingAndCleaningData)
 Date Written: 01/23/2015
 
 Steps to reproduce:
