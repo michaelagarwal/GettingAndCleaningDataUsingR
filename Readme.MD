@@ -4,12 +4,15 @@
 
 ### Steps to reproduce:
 
-1. Open the R script (run_analysis.r) in RStudio
-2. set parameter setwd
-3. Run the R script (run_analysis.r)
+### Setup: Include all data files in folder before R code
 
+My R code expects all data files to be in parent folder, it is reading files in this format:	"../Y_test.txt"
+
+### Open and run code
+1. Save the R script (run_analysis.r) 
+2. set your working directory to be where you saved R script from step 1
+3. Run the R script (run_analysis.r) in Rstudio (R version 3.1.2)
 
 ### Outputs produced:
-
 * Tidy data set in file `Tidy Data set.txt` (tab-delimited text)
-* Codebook file 'codebook.md' (Markdown)
+
