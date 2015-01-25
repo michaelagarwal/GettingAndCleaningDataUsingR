@@ -14,5 +14,5 @@ My R code expects all data files to be in parent folder, it is reading files in 
 3. Run the R script (run_analysis.r) in Rstudio (R version 3.1.2)
 
 ### Outputs produced:
-* Tidy data set in file `Tidy Data set.txt` (tab-delimited text)
+* Tidy data set in file 'Tidy_data_set.txt'
 
