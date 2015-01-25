@@ -3,11 +3,11 @@
 ### Date Written: 01/23/2015
 
 ### Variables and data
-Data from accelerometers: There are 10299 observations (561 columns), they are listed in X_train.txt and X_test.txt
-Features (i.e column names): There are 561 values, they are listed in Features.txt
-Activity Description: Activity description (6 values) are stored in activity_labels.txt
-Activity for each observation: Activity for each of 10299 observations is stored in single column in Y_train.txt and Y_test.txt
-Subjects for each observation: Subjects for each of 10299 observations is stored in subjects_test.txt and subjects_train_txt
+#### 1. Data from accelerometers: There are 10299 observations (561 columns), they are listed in X_train.txt and X_test.txt
+#### 2. Features (i.e column names): There are 561 values, they are listed in Features.txt
+#### 3. Activity Description: Activity description (6 values) are stored in activity_labels.txt
+#### 4. Activity for each observation: Activity for each of 10299 observations is stored in single column in Y_train.txt and Y_test.txt
+#### 5. Subjects for each observation: Subjects for each of 10299 observations is stored in subjects_test.txt and subjects_train_txt
 
 
 ### Logic and transformations used in this run_analysis.R is
